@@ -11,7 +11,7 @@ The library was designed to be simple and get to you up and running in the short
 
 ### Step 1: Getting the library
 
-I would recommend you download the library directly from my git repository (https://github.com/ahmadamin/ics-generator) because it will always 
+I would recommend you download the library directly from my git repository (https://github.com/ahmad/ics-generator) because it will always 
 be up-to-date with the latest release. All you need is the **invite.php** file which includes the class **Invite** that does all the magic.
 
 ### Step 2: Usage
